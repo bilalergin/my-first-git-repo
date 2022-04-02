@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class SecondJavaClass {
+public class SecondJavaClass {
+    //This will have some java code
 }
